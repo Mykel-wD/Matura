@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b59170e0-3c2e-4286-ab66-3b190afa1cfd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../analiza/09.2022/percents.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/algorytmy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/liczba_doskonala.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../liczbowe/liczba_doskonala.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/liczba_doskonala.py" beforeDir="false" afterPath="$PROJECT_DIR$/../liczbowe/liczba_doskonala.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/nwd_recursion_euklides.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/nwd_recursion_euklides.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/nww.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../liczbowe/nww.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/nww_najwiekszy_dzielnik.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/sito_erasto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liczbowe/sito_erastotesa.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../liczbowe/sito_erastotesa.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lider_in_zbior.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lider_in_zbior.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polowienie_funkcji.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polowienie_funkcji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/sort search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/sort-bucket.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../sort search/sort-bucket.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort search/sort-bucket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sort search/sort-bucket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dec_to_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/dec_to_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fast_mnozenie_horner.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/fast_mnozenie_horner.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fast_mnozenie_horner.py" beforeDir="false" afterPath="$PROJECT_DIR$/fast_mnozenie_horner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liczba_na_cyfry.py" beforeDir="false" afterPath="$PROJECT_DIR$/liczba_na_cyfry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/tekstowe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/anagram.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/anagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/szyfr-cezara.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/szyfr-cezara.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/szyfr-przestaw.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tekstowe/szyfr-przestaw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/2022_czerwiec.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/DANE/kluby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/DANE/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/DANE/mecze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/DANE/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/DANE/sedziowie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury/second_try/2022_czerwiec/DANE/temperatury.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LW2jjjEHEQ4FbZQEGDLvtPTYDB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.liczba_na_cyfry">
+    <configuration name="fast_mnozenie_horner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="systemy_liczb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fast_mnozenie_horner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liczba_na_cyfry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="systemy_liczb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liczba_na_cyfry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.liczba_na_cyfry" />
+        <item itemvalue="Python.fast_mnozenie_horner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b59170e0-3c2e-4286-ab66-3b190afa1cfd" name="Changes" comment="" />
+      <created>1675972656928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675972656928</updated>
+    </task>
+    <servers />
+  </component>
+</project>
