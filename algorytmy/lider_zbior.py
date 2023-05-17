@@ -19,3 +19,4 @@ if len(zbior) > 0:
     pozostala = zbior[0]
     if zbior_kopia.count(pozostala) > n//2: #ilosc liczby w poczatkowym zbiorze
         print(pozostala)
+print(int("5F",16))
